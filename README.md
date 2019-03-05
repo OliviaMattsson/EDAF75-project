@@ -2,8 +2,9 @@
 
 This is the report for
 
- + Firstname Lastname, `stil_id`
- + ...
+ + Olivia Mattsson, `stil_id`
+ + Joanna Liljedahl Hildebrand, `stil_id`
+ + Emma Franzon, `stil_id`
 
 We solved this project on our own, except for:
 
@@ -13,15 +14,11 @@ We solved this project on our own, except for:
 
 ## ER-design
 
-The model is in the file [`er-model.png`](er-model.png):
+The model is in the file [`Databas projekt.png`](Databas projekt.png):
 
 <center>
-    <img src="er-model.png" width="100%">
+    <img src="Databas projekt.png" width="100%">
 </center>
-
-(The image above describes the model from lecture 4, you
-must replace the file '`er-model.png`' with an image of your
-own ER-model).
 
 
 ## Relations
